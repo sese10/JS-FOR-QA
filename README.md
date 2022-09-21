@@ -1,3 +1,3 @@
 # JS-FOR-QA
 JS codeChallenge
-Learning JavaScript
+Learning JavaScript for QA
