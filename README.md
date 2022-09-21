@@ -1,4 +1,4 @@
 # JS-FOR-QA
 JS codeChallenge
 Learning JavaScript for QA
-Hello world 1
+Hello world 2
